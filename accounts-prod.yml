@@ -1,8 +1,8 @@
 build:
-  version: "3.5"
+  version: "3.0"
 
 accounts:
-  message: "It is a test to figure out about spring cloud bus real time updating config"
+  message: "Another test"
   contactDetails:
     name: "Bohdan Melnyk - Developer"
     email: "bohdan@eazyzbank.com"
