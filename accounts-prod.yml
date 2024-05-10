@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to my bank account PROD related API"
+  message: "It is a test to figure out about spring cloud bus real time updating config"
   contactDetails:
     name: "Bohdan Melnyk - Developer"
     email: "bohdan@eazyzbank.com"
