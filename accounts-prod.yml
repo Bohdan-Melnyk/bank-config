@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to my bank account PROD related API"
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazyzbank.com"
+    name: "Bohdan Melnyk - Developer"
+    email: "bohdan@eazyzbank.com"
   onLocalSupport:
     - (777) 555-1234
     - (888) 523-1345
