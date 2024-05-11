@@ -1,8 +1,8 @@
 build:
-  version: "3.5"
+  version: "3.0"
 
 accounts:
-  message: "Another test to confrom that bus works well"
+  message: "Another test to confrom that bus works well. Final try"
   contactDetails:
     name: "Bohdan Melnyk - Developer"
     email: "bohdan@eazyzbank.com"
